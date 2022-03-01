@@ -10,7 +10,7 @@ if sys.version_info[0] != 3:
 
 PASSWORD_FILE = "passwords.txt"
 MIN_PASSWORD_LENGTH = 6
-POST_URL = 'https://www.facebook.com/login.php'
+POST_URL = 'https://www.facebook.com/recover/code/?em[0]=f**************6%40gmail.com&rm=send_email&hash=AUbgsBXjq8CvlmIqTu4'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
 }
